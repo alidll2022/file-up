@@ -428,7 +428,7 @@ if (isset($_GET['action'])) {
             $timestamp = gmdate('Y-m-d\TH:i:s\Z');
             
             // 使用正确的AccessKey ID和错误的AccessKey Secret
-            $accessKeyId = 'LTAI5tD7RAZwc1roeDWLvvTj'; // 这是一个示例AccessKey ID
+            $accessKeyId = '000000'; // 这是一个示例AccessKey ID
             $accessKeySecret = '错误的AccessKeySecret';
             $domainName = 'example.com';
             
